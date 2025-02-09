@@ -2,7 +2,23 @@
     "locations": [
       {
         "country": "united-kingdom",
-        "cities": ["london"]
+        "cities": ["london", "manchester", "birmingham"]
+      },
+      {
+        "country": "ca",
+        "cities": ["los-angeles"]
+      },
+      {
+        "country": "il",
+        "cities": ["chicago"]
+      },
+      {
+        "country": "ny",
+        "cities": ["new-york"]
+      },
+      {
+        "country": "australia",
+        "cities": ["sydney", "melbourne", "brisbane"]
       }
     ],
     "categories": [
@@ -16,6 +32,8 @@
       "science-and-tech",
       "charity-and-causes",
       "travel-and-outdoor",
-      "film-and-media"],
-    "num_pages": 2
+      "film-and-media"
+    ],
+    "page_count": 2
   }
+  
