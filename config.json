@@ -1,0 +1,21 @@
+{
+    "locations": [
+      {
+        "country": "united-kingdom",
+        "cities": ["london"]
+      }
+    ],
+    "categories": [
+      "home-and-lifestyle",
+      "business",
+      "performing-and-visual-arts",
+      "community",
+      "music",
+      "food-and-drink",
+      "sports-and-fitness",
+      "science-and-tech",
+      "charity-and-causes",
+      "travel-and-outdoor",
+      "film-and-media"],
+    "num_pages": 2
+  }
