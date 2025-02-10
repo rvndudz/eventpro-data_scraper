@@ -2,7 +2,7 @@
     "locations": [
       {
         "country": "united-kingdom",
-        "cities": ["london", "manchester", "birmingham"]
+        "cities": ["manchester", "birmingham"]
       },
       {
         "country": "ca",
